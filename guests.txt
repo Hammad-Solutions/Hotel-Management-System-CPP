@@ -1,0 +1,4 @@
+hamza,d,6
+Zohaib,clean,0
+Muhammad,Ejaz,4
+Saif,Sea,0

@@ -1,0 +1,8 @@
+1,Admin,admin,admin,1234
+1,Hammad,receptionist,hammad,1234
+2,Hamza,Manager,hamzi,4321
+1,Hammad,Manager,mady,1234
+1,Hammad,receptionist,Hammad,1234
+2,Hamza,manager,Hamza,1234
+3,Zohaib,housekeeper,Zohaib,1234
+4,Ali,concierge,Ali,1234

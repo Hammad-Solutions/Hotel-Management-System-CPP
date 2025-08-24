@@ -1,0 +1,20 @@
+101,Standard,dirty
+201,Deluxe,dirty
+301,Suite,clean
+401,Luxury Villa,clean
+102,Standard,dirty
+202,Deluxe,clean
+302,Suite,clean
+402,Luxury Villa,clean
+103,Standard,clean
+203,Deluxe,clean
+303,Suite,clean
+403,Luxury Villa,clean
+104,Standard,clean
+204,Deluxe,clean
+304,Suite,clean
+404,Luxury Villa,clean
+105,Standard,clean
+205,Deluxe,clean
+305,Suite,clean
+405,Luxury Villa,clean
