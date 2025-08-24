@@ -1,4 +1,3 @@
-only single file like this:
 # 🏨 Hotel Management System in C++ (OOP & File Handling)
 
 This is a **complete Hotel Management System Project in C++** using **Object-Oriented Programming** and **File Handling**.  
@@ -53,7 +52,7 @@ It is a **comprehensive console application**, perfect for **developers and stud
 [▶ Watch Full Demo Video](assets/videos/demo.mp4)  
 
 ▶️ [Watch Demo on LinkedIn](https://www.linkedin.com/posts/hammad-solution_cplusplus-oop-objectorientedprogramming-activity-7365468233803489281-N66b?utm_source=share&utm_medium=member_android&rcm=ACoAAD7ehJwB0_FcvytmTsHRpNnDo79WRouD4L8)
-```
+
 ---
 
 ## 🤝 Contributing
