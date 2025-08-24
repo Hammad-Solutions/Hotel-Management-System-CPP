@@ -84,8 +84,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - ✅ **Beginner to Advanced Level Learning**
 - ✅ **Ready-to-Use** in educational institutions
 
-**#CPlusPlus #OOP #FileHandling #HotelManagement #Programming #SoftwareDevelopment #Coding #Developer #CppProgramming #OpenSource #StudentProject #CodeNewbie**
-
 ---
 
 *📞 Contact for collaboration and project development opportunities!*
