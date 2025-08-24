@@ -27,7 +27,7 @@ It is a **comprehensive console application**, perfect for **developers and stud
 ---
 
 ## 📊 Project Architecture
-![System Architecture](assets/images/flowchart.png)
+![System Architecture](assets/images/flowchart.jpg)
 
 ---
 
@@ -54,25 +54,6 @@ It is a **comprehensive console application**, perfect for **developers and stud
 
 ---
 
-## 📦 Installation & Usage
-
-1. **Clone the Repository**
-```sh
-# Clone the repository
-git clone https://github.com/Hammad-Solutions/Hotel-Management-System-CPP.git
-
-# Go into the project folder
-cd Hotel-Management-System-CPP
-
-# Compile the C++ program
-g++ -o main *.cpp
-
-# Run the executable
-./main
-
-
----
-
 ## 🤝 Contributing
 We welcome contributions! Feel free to:
 - ⭐ Star this repository
@@ -89,10 +70,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## ✨ Author
 👨‍💻 **Developed by Hammad Solutions**  
-📧 Email: [m6784104@gmail.com](mailto:m6784104@gmail.com)  
-🔗 GitHub: [https://github.com/Hammad-Solutions](https://github.com/Hammad-Solutions)  
-💼 LinkedIn: [https://linkedin.com/in/hammad-solution](https://linkedin.com/in/hammad-solution)  
- 
 
 **⭐ If you find this project helpful, please give it a star on GitHub!**  
 **🔔 Follow me for more amazing projects and tutorials!**
